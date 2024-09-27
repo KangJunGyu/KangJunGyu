@@ -2,7 +2,14 @@
 
 ## 👋 Hello! I'm Jungyu Kang
 
-Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil University in Seoul, specializing in Artificial Intelligence, Deep Learning. Currently, I’m interested in and studying with Brain AI and Computer Vision in Medical area.
+<div align="left" style="display: flex;">
+  <div style="flex: 1;">
+    Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil University in Seoul, specializing in Artificial Intelligence and Deep Learning. Currently, I’m interested in and studying Brain AI and Computer Vision in the Medical field.
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github.com/user-attachments/assets/0831c231-e096-4b19-aab7-1c4cb50f888a" alt="Jungyu Kang" style="width:200px; border-radius: 10px; margin-left: 20px;" />
+  </div>
+</div>
 
 ### 📫 Contact Information
 
