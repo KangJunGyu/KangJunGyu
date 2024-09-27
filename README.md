@@ -88,6 +88,6 @@ Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil Universi
     
     - ***Presented at: Annual Spring Conference of KIPS, 2023***
     - This study proposes a novel approach to video summarization by leveraging ChatGPT. Using WhisperX for Speech-to-Text (STT) conversion, the extracted video subtitles are summarized through ChatGPT. The most relevant parts of the video are identified by analyzing text similarity using cosine similarity, which allows for an efficient and accurate video summarization process.
-    - **Keywords** : Video Summarization, ChatGPT, Speech-to-Text (STT), Natural Language Processing (NLP), WhisperX
+      - **Keywords** : Video Summarization, ChatGPT, Speech-to-Text (STT), Natural Language Processing (NLP), WhisperX
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate.
