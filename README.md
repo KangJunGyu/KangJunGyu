@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil Universi
 
 - **Programming Languages:** Python, C, Java
 - **Frameworks & Libraries:** OpenCV, Scikit-Learn, YOLO, ...
-- **Tools & Platforms:** Colab, Jupyter, pyCharm, Linux
+- **Tools & Platforms:** Colab(Jupyter), PyCharm, Linux
 - **Databases:** MySQL
 
 ### 🎓 Education
