@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil Universi
     *Wonho Lee, Jungyu Kang, Nayoung Seong, Suhyeon Cho, Youngjong Kim (Soongsil University)*
     
     - ***Presented at: Annual Spring Conference of KIPS, 2023***
-    - This research introduces an innovative method for summarizing video content using ChatGPT. The model uses Speech-to-Text (STT) technology, specifically WhisperX, to extract video subtitles. The extracted subtitles are then summarized using ChatGPT. The similarity between the original and summarized text is analyzed using cosine similarity to select and edit key segments of the video. This study demonstrates the effectiveness of combining natural language processing (NLP) and video summarization techniques.
+    - This study proposes a novel approach to video summarization by leveraging ChatGPT. Using WhisperX for Speech-to-Text (STT) conversion, the extracted video subtitles are summarized through ChatGPT. The most relevant parts of the video are identified by analyzing text similarity using cosine similarity, which allows for an efficient and accurate video summarization process.
     - **Keywords** : Video Summarization, ChatGPT, Speech-to-Text (STT), Natural Language Processing (NLP), WhisperX
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or opportunities to collaborate.
