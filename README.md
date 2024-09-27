@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil Universi
 ### 🛠 Skills
 
 - **Programming Languages:** Python, C, Java
-- **Frameworks & Libraries:** OpenCV, FFmpeg, Scikit-Learn, …
+- **Frameworks & Libraries:** OpenCV, Scikit-Learn, YOLO, ...
 - **Tools & Platforms:** Colab, Jupyter, pyCharm, Linux
 - **Databases:** MySQL
 
