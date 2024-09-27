@@ -2,25 +2,23 @@
 
 ## 👋 Hello! I'm Jungyu Kang
 
-<div align="left" style="display: flex;">
-  <div style="flex: 1;">
-    Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil University in Seoul, specializing in Artificial Intelligence and Deep Learning. Currently, I’m interested in and studying Brain AI and Computer Vision in the Medical field.
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/user-attachments/assets/0831c231-e096-4b19-aab7-1c4cb50f888a" alt="Jungyu Kang" style="width:200px; border-radius: 10px; margin-left: 20px;" />
-  </div>
-</div>
+Welcome to my GitHub profile! I'm a passionate B.S. student at Soongsil University in Seoul, specializing in Artificial Intelligence and Deep Learning. Currently, I’m interested in and studying Brain AI and Computer Vision in the Medical field.
 
 ### 📫 Contact Information
 
-- **Name:** Jungyu Kang
-- **Position:** B.S. Student
-- **University:** Soongsil University, Seoul 06978, Republic of Korea
-- **Email:** shinysky5166@soongsil.ac.kr
-- **Phone:** +82) 010-5166-2110
-- **GitHub:** [github.com/KangJunGyu](https://github.com/KangJunGyu)
-
-![강준규](https://github.com/user-attachments/assets/0831c231-e096-4b19-aab7-1c4cb50f888a)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    - **Name:** Jungyu Kang<br>
+    - **Position:** B.S. Student<br>
+    - **University:** Soongsil University, Seoul 06978, Republic of Korea<br>
+    - **Email:** shinysky5166@soongsil.ac.kr<br>
+    - **Phone:** +82) 010-5166-2110<br>
+    - **GitHub:** [github.com/KangJunGyu](https://github.com/KangJunGyu)
+  </div>
+  <div style="padding-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/0831c231-e096-4b19-aab7-1c4cb50f888a" alt="Jungyu Kang" width="200px" style="border-radius: 10px;" />
+  </div>
+</div>
 
 ### 🛠 Skills
 
