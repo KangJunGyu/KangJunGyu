@@ -1,8 +1,16 @@
-# Hi, I'm Jungyu Kang 👋
+# Hi, I'm Jungyu Kang
 
 **Computer Vision Engineer** focused on building object detection systems that work in production — not just in experiments.
 
 Experienced in the full experiment cycle from dataset construction and labeling to real-time service deployment. Presented research at KIPS 2023 and filed a patent on a real-time passport photo verification system.
+
+---
+
+## 📫 Contact
+
+- **Email:** kangjungyu.dev@gmail.com
+- **Phone:** +82 10-5166-2110
+- **GitHub:** [github.com/KangJunGyu](https://github.com/KangJunGyu)
 
 ---
 
@@ -90,8 +98,6 @@ Weight prediction model built through sequential regression: Linear → Ridge �
 
 ---
 
-## 📫 Contact
+## 🎓 Education
 
-- **Email:** kangjungyu.dev@gmail.com
-- **Phone:** +82 10-5166-2110
-- **GitHub:** [github.com/KangJunGyu](https://github.com/KangJunGyu)
+**B.S. in Software, Convergence Major in Big Data** — Soongsil University (2019 – 2025)
