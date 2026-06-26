@@ -1,4 +1,4 @@
-# Hi, I'm Jungyu Kang
+# Hi, I'm Jungyu Kang :)
 
 **Computer Vision Engineer** focused on building object detection systems that work in production — not just in experiments.
 
